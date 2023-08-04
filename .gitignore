@@ -1,0 +1,31 @@
+# Mac OS X
+*.DS_Store
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+*.xcworkspace/
+project.xcworkspace/
+xcuserdata/
+!*.xcworkspace/contents.xcworkspacedata
+!*.xcodeproj/project.pbxproj
+
+# AppCode
+.idea/
+
+# Podfiles
+Pods/
+PodsDevelopment/
+
+# Fastlane
+fastlane/Appfile
+fastlane/report.xml
+fastlane_build/
+/fastlane/tokens.txt
+/fastlane/test_output/
+
+# Other
+/Generator/output/
